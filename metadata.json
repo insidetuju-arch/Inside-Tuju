@@ -1,0 +1,6 @@
+{
+  "name": "Toko Kopi Tuju — HC & Payroll",
+  "description": "Portal Human Capital Manager Toko Kopi Tuju untuk database kru & staf, rekap onboarding & training barista 14 hari, sistem payroll lengkap, serta unduh & kirim slip gaji otomatis via Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
